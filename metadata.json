@@ -1,0 +1,6 @@
+{
+  "name": "ABC Placement Portfolio",
+  "description": "A professional portfolio website for ABC Consultant clients, featuring personal details, skills, projects, and recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
